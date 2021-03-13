@@ -1,0 +1,9 @@
+@keyframes slidein-left {
+	from { left: -5px; }
+	to { left: 0px; }
+}
+
+@keyframes slidein-bottom {
+	from { bottom: -5px; }
+	to { bottom: 0px; }
+}
